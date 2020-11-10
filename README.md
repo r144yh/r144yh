@@ -7,7 +7,7 @@
 - 🌱 I studied the course JavaScript Development at Epam in Saint Petersburg.
 
 **More about my skills you can see there**:
-[CV](https://r144yh.github.io/rsschool-cv/cv)
+[CV](https://r144yh.github.io/cv/)
 
 - **How to reach me**: 
   - ✏️ Telegram: @Mrakutoska
