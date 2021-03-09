@@ -2,9 +2,9 @@
 <h2 align="center"> Hi there 👋 </h2>
 <h5 align="center">If you’re reading this, you probably want to know more about me</h5>
 
-**Hi, I'm Natalia Salova**. Now I’m studying the master’s program and taking courses at RS School. So far I have no official job, but I have the following experience:
+**Hi, I'm Natalia Salova**. Now I’m studying the master’s program. So far I have no official job, but I have the following experience:
 - 🔭 My knowledge background: 4 years at University. Sphere of studying: Computer science and computer facilities
-- 🌱 I studied the course JavaScript Development at Epam in Saint Petersburg.
+- 🌱 I studied the course JavaScript Development at Epam in Saint Petersburg and at RS School.
 
 **More about my skills you can see there**:
 [CV](https://r144yh.github.io/cv/)
@@ -14,6 +14,19 @@
   - 📧 E-mail: mrakur@yandex.ru 
   
 - ⚡ Fun fact: Find my concentration playlist here - [SoundCloud](https://soundcloud.com/pxl_sf/sets/0z421) & [Spotify](https://open.spotify.com/playlist/6MixZxyjqrBsCR9YR6fjT1?si=lJ_qupZWRtSXpVt6WlViyA)
+
+<table>
+  <tr>
+    <td>Selection of useful bookmarks:</td>
+    <td>Selection of books on programming:</td>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/r144yh/r144yh/blob/useful-resource/README.md"> 📑 полезные закладки</a></th>
+    <th><a href="https://github.com/r144yh/r144yh/blob/useful-books/README.md">📘 полезные книги</a></th>
+  </tr>
+</table>
+
+
 <!--
 **r144yh/r144yh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
