@@ -37,6 +37,7 @@
   * [Сhartjs](https://www.chartjs.org/) - Библиотека для построения графиков
   * [Rapprogtrain](http://rapprogtrain.com/article/59) - Подборка различных JS библиотек
   * [Animejs](https://animejs.com/) - Библиотека анимаций JS
+  * [Roadmap Trello](https://trello.com/b/COYcQZAm/roadmap-javascript-frontend-jun-to-lead) - RoadMap JavaScript & FrontEnd
 
 * 🍑 **CSS**:
   * [Shape Dividers](https://www.shapedivider.app/) - Создаание волн для оформления страниц
