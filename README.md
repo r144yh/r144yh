@@ -5,7 +5,8 @@
 ---
 #### 🤯 Общая грамотность и алгоритмы:
 * ➖ [Теоретический минимум по Computer Science](https://www.ozon.ru/product/teoreticheskiy-minimum-po-computer-science-vse-chto-nuzhno-programmistu-i-razrabotchiku-144946027/) -  Все что нужно программисту и разработчику
-* ➖ [Грокаем алгоритмы](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-139296295/) - Иллюстрированное пособие для программистов и любопытствующих
+* 💡 [Грокаем алгоритмы](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-139296295/) - Иллюстрированное пособие для программистов и любопытствующих
+* 💡 [Совершенный код. Мастер-класс](https://www.ozon.ru/context/detail/id/221777342#section-description--offset-80) - Практическое руководство по программированию
 
 #### 🗿 JavaScript:
 * ✔ [Вы не знаете JS - библия](https://github.com/r144yh/you-dont-know-js-ru/blob/master/up%20%26%20going/README.md#Вы-не-знаете-js-Начните-и-Совершенствуйтесь) - «Начните и Совершенствуйтесь»
