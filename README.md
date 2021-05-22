@@ -29,6 +29,7 @@
   * [Github](https://github.com/trekhleb/javascript-algorithms) - Оригинал ссылки выше
   * [Github](https://gist.github.com/Student-Java/4ef558ace30714381d4ad7a3a8b73959) - Мнение про ООП
   * [Ota-Solid](https://ota-solid.vercel.app/) - Про SOLID
+  * [Medium](https://medium.com/swlh/what-is-object-oriented-programming-f5b42f3ac826) - Про ООП
 
 * 👀 **JS**:
   * [Vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Идеи проектов для тренировки чистого JS
@@ -45,6 +46,7 @@
   * [Roadmap Trello](https://trello.com/b/COYcQZAm/roadmap-javascript-frontend-jun-to-lead) - RoadMap JavaScript & FrontEnd
   * [Uiregex](https://uiregex.com/ru?test=&match=&exact=Enter,%20Escape,%20Tab,%20Delete,%20Backspace,%20Insert,%20PageUp,%20PageDown,%20ArrowLeft,%20ArrowRight,%20ArrowUp,%20ArrowDown%20End,%20Home,%20Shift,%20F1,%20F2,%20F3,%20F4,%20F5,%20F6,%20F7,%20F8,%20F9,%20F10,%20F11,%20F12&blocked=а) - Генератор RegExp 
   * [ihateregex](https://ihateregex.io/) - Генератор для проверки RegExp
+  * [Unknown](http://website-lab.ru/article/regexp/shpargalka_po_regulyarnyim_vyirajeniyam/) - Шпаргалка по RegExp
   * [Frontend-stuff](https://frontend-stuff.com/blog/composition/) - Композиция в JS 
   * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND_assignment) - Logical AND assignment (&&=)
   * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining) - Optional chaining (?.)
@@ -52,6 +54,7 @@
   * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator) - Nullish coalescing operator (??)
   * [Medium](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5) - Полезное про JS
   * [Habr](https://habr.com/ru/post/456344/) - Почему ['1', '7', '11'].map(parseInt) возвращает [1, NaN, 3] в Javascript?
+  * [DEVto](https://dev.to/machy44/lets-create-our-own-filter-method-in-js--5gh4) - Создание фильтра
 
 * 🍑 **CSS**:
   * [Shape Dividers](https://www.shapedivider.app/) - Создание волн для оформления страниц
@@ -69,6 +72,12 @@
   * [Active-vision](https://active-vision.ru/icon/box-shadow/) - Генератор теней
   * [Medium](https://medium.com/nuances-of-programming/8-полезных-приемов-в-css-эффект-параллакса-прилипающий-футер-и-многое-другое-f5a656814b9a) - Полезные приёмы
   * [30secondsofcode](https://www.30secondsofcode.org/css/p/1) - Очень полезные приёмы
+  * [9elements](https://9elements.github.io/fancy-border-radius/) - Fancy-border-radius
+  * [CSS-live](https://css-live.ru/css/bolshaya-statya-pro-gridy-css-grid-layout.html#item-in-area) - Большая статья про гриды
+  * [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) - Палитра подборов цветов
+  * [CSSyoksel](http://css.yoksel.ru/css-animation/) - CSS Animation
+  * [html5book](https://html5book.ru/transparency/) - Прозрачность элементов
+  * [htmlacademy](https://htmlacademy.ru/blog/boost/frontend/about-normalize-css) - Normalize css
 
 * 🍀 **VUE**:
   * [VUESchool](https://vueschool.io/articles/vuejs-tutorials/structuring-vue-components/) - Организация VUE компонентов
@@ -87,9 +96,16 @@
   * [VCru](https://vc.ru/design/178662-devyat-glavnyh-trendov-v-ux-ui-dizayne-v-2021-godu) - Тренды UX/UI 2021
   * [Dribbble](https://dribbble.com/search/minimalism%20ui) - Вдохновляться
   * [Habr](https://habr.com/ru/company/ruvds/blog/519652/) - Полезные Github-репозитории
+  * [html5css](https://html5css.ru/html/html5_semantic_elements.php) - HTML5 семантические элементы
+  * [Codeguide](https://codeguide.co/) - Гайд по стилю написания html и css
+  * [Github](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-0/create-github-pages.md) - Создание Github Pages(!!) 🏓
+  * [learnvanillajs](https://learnvanillajs.com/roadmap/) - Roadmap js
 
 * 🚀 **Оптимизация**:
   * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Скорость загрузки сайта
+  * [Squoosh](https://squoosh.app/) - Оптимизация картинок
+  * [JSBench](https://jsbench.me/) - JSBench
+  * [benchmarkjs](https://benchmarkjs.com/) - Benchmark.js 
   
 #### ПОСМОТРЕТЬ ПОЗЖЕ:
 * 🕟 **Youtube**:
@@ -103,6 +119,10 @@
   * [Habr](https://habr.com/ru/company/yandex/blog/430560/) - Разбираем задачи конкурса Яндекса
   * [Habr](https://habr.com/ru/company/skillbox/blog/445360/) - Задачи по JS на собеседованиях
   * [Github](https://github.com/zhechka/Front-end-Developer-Interview-Questions/blob/master/Translations/Russian/README_RU.md) - Вопросы на Frontend собеседовании
+  * [Github](https://github.com/zhechka/Front-end-Developer-Interview-Questions) - Ещё вопросы на собеседовании
+  * [Github](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars.md) - Codewars RS Stage2
+  * [Devchallenges](https://devchallenges.io/?ref=blog.moeminmamdouh.com) - Челленджи про прокачке фронтенд скиллов 
+  * [FrontendMentor](https://www.frontendmentor.io/challenges) - Более глубокие челленджи
  
 * ☕ **Английский**:
   * [EF Set](https://www.efset.org/ru/free-english-test/) - Проверка уровня английскийкого
@@ -126,9 +146,15 @@
   * [Useful](https://sinyakov.com/frontend/problems.html) - Советы по изучению JS
   * [Habr](https://habr.com/ru/company/dododev/blog/462747/) - Статья про метод слепой печати
   
-* 〰 **Примеры портфолио**:
+* 〰 **Примеры портфолио и всякое разное**:
   * [EnvatoMarker](http://preview.themeforest.net/item/jordan-modern-onepage-resume-portfolio-theme/full_screen_preview/17130387?_ga=2.13452528.690574824.1600542939-867042192.1581518391) - Портфолио лендинг
   * [Arutyunov](https://arutyunov.me/portfolio/#) - Портфолио с полезной информацией
+  * [Netlify](https://silly-morse-fa1bf9.netlify.app/) - Оформление Momentum RS
+  * [Github](https://rolling-scopes-school.github.io/vlardeo-JS2020Q3/momentum/) - Оформление Momentum RS(2)
+  * [DevCommunity](http://koneksi-aman.com/proxy/index.php?q=maq-1aOpeYmUnqZmyMmcsaulueJk1JfbvnSupOO3ptWaqrLakpy6zJ-fmaS5h9Szq6LInJbOl9nHdKSW3A) - Make Your GitHub Profile Great
+  * [DEVto](https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276) - 3 Ways to Spice up your GitHub Profile README
+  * [Github](https://github.com/M0nica?tab=overview&from=2020-09-01&to=2020-09-18) - Хорошее оформление гита
+  * [Github](https://github.com/chrisryana) - Хорошее оформление гита + идея составления списка позаимствована именно отсюда
 
 #### МАГИСТРАТУРА
 * ⚠ **ThreeJS**:
