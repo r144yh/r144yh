@@ -14,6 +14,7 @@
   * [Htmlacademy](https://htmlacademy.ru/blog/boost/tools/git-console) - Работа с Git через консоль
   * [Proglib](https://proglib.io/p/painful-git/#:~:text=Команда%20git%20cherry-pick%20используется,которые%20переносят%20коммиты%20целыми%20цепочками.) - 11 концепций и команд git, которые заставят вас плакать
   * [Gitbook](https://uleming.github.io/gitbook/1_Объектная_модель_git.html) - Объектная модель Git
+  * [Evernote](https://www.evernote.com/shard/s368/client/snv?noteGuid=b1359883-2b9e-419a-b9de-dd959fc05f05&noteKey=97c0f19486d851b3&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs368%2Fsh%2Fb1359883-2b9e-419a-b9de-dd959fc05f05%2F97c0f19486d851b3&title=Git) - Много информации по гиту
   
 * 👩‍💻 **Программирование**:
   * [Proglib data structures](https://proglib.io/p/data-structures/) - 10 структур данных, которые вы должны знать
@@ -22,9 +23,12 @@
   * [Теги](https://itnext.io/html-underrated-tags-119ef3e45b94) - HTML: недооцененные теги
   * [Семантика](https://medium.com/@stasonmars/секреты-использования-семантической-верстки-в-html5-c7cd5e6f1ebb) - Семантическая вёрстка
   
-* 🧠 **АЛГОРИТМЫ**
+* 🧠 **АЛГОРИТМЫ и ООП**
   * [Habr](https://habr.com/ru/post/188010/) - Знай сложности алгоритмов
   * [Github](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md) - Алгоритмы и структуры данных на JS
+  * [Github](https://github.com/trekhleb/javascript-algorithms) - Оригинал ссылки выше
+  * [Github](https://gist.github.com/Student-Java/4ef558ace30714381d4ad7a3a8b73959) - Мнение про ООП
+  * [Ota-Solid](https://ota-solid.vercel.app/) - Про SOLID
 
 * 👀 **JS**:
   * [Vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Идеи проектов для тренировки чистого JS
@@ -41,6 +45,13 @@
   * [Roadmap Trello](https://trello.com/b/COYcQZAm/roadmap-javascript-frontend-jun-to-lead) - RoadMap JavaScript & FrontEnd
   * [Uiregex](https://uiregex.com/ru?test=&match=&exact=Enter,%20Escape,%20Tab,%20Delete,%20Backspace,%20Insert,%20PageUp,%20PageDown,%20ArrowLeft,%20ArrowRight,%20ArrowUp,%20ArrowDown%20End,%20Home,%20Shift,%20F1,%20F2,%20F3,%20F4,%20F5,%20F6,%20F7,%20F8,%20F9,%20F10,%20F11,%20F12&blocked=а) - Генератор RegExp 
   * [ihateregex](https://ihateregex.io/) - Генератор для проверки RegExp
+  * [Frontend-stuff](https://frontend-stuff.com/blog/composition/) - Композиция в JS 
+  * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND_assignment) - Logical AND assignment (&&=)
+  * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining) - Optional chaining (?.)
+  * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_nullish_assignment) - Logical nullish assignment (??=)
+  * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator) - Nullish coalescing operator (??)
+  * [Medium](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5) - Полезное про JS
+  * [Habr](https://habr.com/ru/post/456344/) - Почему ['1', '7', '11'].map(parseInt) возвращает [1, NaN, 3] в Javascript?
 
 * 🍑 **CSS**:
   * [Shape Dividers](https://www.shapedivider.app/) - Создание волн для оформления страниц
@@ -56,6 +67,8 @@
   * [Medium](https://medium.com/@ABatickaya/думая-о-доступности-пишем-css-9032d7b64fb2) - Доступность в CSS
   * [Habr](https://habr.com/ru/company/ruvds/blog/317776/) - CSS для печати
   * [Active-vision](https://active-vision.ru/icon/box-shadow/) - Генератор теней
+  * [Medium](https://medium.com/nuances-of-programming/8-полезных-приемов-в-css-эффект-параллакса-прилипающий-футер-и-многое-другое-f5a656814b9a) - Полезные приёмы
+  * [30secondsofcode](https://www.30secondsofcode.org/css/p/1) - Очень полезные приёмы
 
 * 🍀 **VUE**:
   * [VUESchool](https://vueschool.io/articles/vuejs-tutorials/structuring-vue-components/) - Организация VUE компонентов
@@ -69,6 +82,11 @@
 
 * 🌝 🌚 **Frontend**:
   * [Cat in web](https://www.cat-in-web.ru/webpack-from-zero/) - Webpack с нуля
+  * [Epam](https://drive.google.com/file/d/16OH-YtmCCay7_i7fV6aHYrzwPHkYO7aj/view) - Про Web-компоненты
+  * [Github](https://andreasbm.github.io/web-skills/) - Web-skills roadmap
+  * [VCru](https://vc.ru/design/178662-devyat-glavnyh-trendov-v-ux-ui-dizayne-v-2021-godu) - Тренды UX/UI 2021
+  * [Dribbble](https://dribbble.com/search/minimalism%20ui) - Вдохновляться
+  * [Habr](https://habr.com/ru/company/ruvds/blog/519652/) - Полезные Github-репозитории
 
 * 🚀 **Оптимизация**:
   * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Скорость загрузки сайта
@@ -101,6 +119,7 @@
   * [Noun Project](https://thenounproject.com/) - Бесплатные и красивые иконки
   * [Pro catalog](https://pro-catalog.ru/) - Лучшая кириллица (шрифты)
   * [Google Fonts](https://fonts.google.com/icons) - Google Material Icons 
+  * [Faviconka](http://faviconka.ru/) - Коллекция фавиконок
 
 * 👩‍🏫 **Обучение обучению**:
   * [Medium](https://medium.com/@iDoRecall/https-medium-com-idorecall-how-to-create-and-practice-flashcards-like-a-boss-b7efb5a53293) - Гайд по созданию карточек
@@ -116,3 +135,5 @@
   * [Codrops](https://tympanus.net/codrops/category/tutorials/) - Уроки по Three.js
   
 * 📵 [Аudacityteam](https://www.audacityteam.org/?__cf_chl_captcha_tk__=c69669b28ef421151c36b718315c7eccbe512b1e-1601919708-0-Aa1aN88vq9t6p1N-o90WxusUdIckSEJnFOaiyNPRMC9LR7PCByXXe5aI6skNo9tVJosclYYJP16K5tmWfo96XqUExtpC6p-FyVsiPmbZze9EKNZDYBfRI5vGQ5J2RlXaKh0x2FlMszUBV3FdQsZw0tvFIIL4PCFOKgYPYVdiyKSmQYBAfWJypr_E8ucWXpP4SYjuE0E-utVMycEKeVHaw7RDAwH6SmxC1b-0q-ImrcRczN3heOCABNw2GAKjzAUqK9_nuJn75TfKxSdocs5lC-ToVmojwpU7zv56M-RDlK70WdM1RybW5NIGD0jVlXg2Y1l6wQo7rP_zA4bSi5_X945yrAiuIj5o3hSU0bYxgrlT1fR2Zd7bkPnsfoCZicUqXeHzFGF0wJxkMepRMz-Vbte6kpApHu05tUBQEZseNq29sy8uDzUaV5JQoFOFaXoga4LY8gdOiLYnufdXblGNaErlBUm1buvDMXW1kHIsP1aHr4IQmOv5c_KhUDRE3LaM9kTLxjqm7WYj17fM9f7Y2otp6Tf_zizIQ7BJUcoxxCB3) - Софт для работы с аудио
+* [Zvukogram](https://zvukogram.com/speech/) - Озвучка текста онлайн
+* [Zvukogram](https://zvukogram.com/) - База звуков 
