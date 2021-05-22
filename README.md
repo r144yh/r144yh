@@ -2,7 +2,7 @@
 <h2 align="center"> Hi there 👋 </h2>
 <h5 align="center">If you’re reading this, you probably want to know more about me</h5>
 
-**Hi, I'm Natalia Salova**. Now I’m studying the master’s program. So far I have no official job, but I have the following experience:
+**Hi, I'm Natalia Salova**.
 - 🔭 My knowledge background: 4 years at University. Sphere of studying: Computer science and computer facilities
 - 🌱 I studied the course JavaScript Development at Epam in Saint Petersburg and at RS School.
 
