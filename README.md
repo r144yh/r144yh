@@ -24,6 +24,7 @@
   
 * 🧠 **АЛГОРИТМЫ**
   * [Habr](https://habr.com/ru/post/188010/) - Знай сложности алгоритмов
+  * [Github](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ru-RU.md) - Алгоритмы и структуры данных на JS
 
 * 👀 **JS**:
   * [Vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Идеи проектов для тренировки чистого JS
@@ -38,22 +39,33 @@
   * [Rapprogtrain](http://rapprogtrain.com/article/59) - Подборка различных JS библиотек
   * [Animejs](https://animejs.com/) - Библиотека анимаций JS
   * [Roadmap Trello](https://trello.com/b/COYcQZAm/roadmap-javascript-frontend-jun-to-lead) - RoadMap JavaScript & FrontEnd
+  * [Uiregex](https://uiregex.com/ru?test=&match=&exact=Enter,%20Escape,%20Tab,%20Delete,%20Backspace,%20Insert,%20PageUp,%20PageDown,%20ArrowLeft,%20ArrowRight,%20ArrowUp,%20ArrowDown%20End,%20Home,%20Shift,%20F1,%20F2,%20F3,%20F4,%20F5,%20F6,%20F7,%20F8,%20F9,%20F10,%20F11,%20F12&blocked=а) - Генератор RegExp 
+  * [ihateregex](https://ihateregex.io/) - Генератор для проверки RegExp
 
 * 🍑 **CSS**:
-  * [Shape Dividers](https://www.shapedivider.app/) - Создаание волн для оформления страниц
-  * [Background generator](https://background-generator.com/) - Создаание фонового рисунка для оформления страниц
+  * [Shape Dividers](https://www.shapedivider.app/) - Создание волн для оформления страниц
+  * [CSS Values](https://cssvalues.com/) - Описание CSS атрибутов 
+  * [Background generator](https://background-generator.com/) - Создание фонового рисунка для оформления страниц
   * [Ouch](https://icons8.ru/illustrations) - Бесплатные векторные иллюстрации
   * [CSSmatic](https://www.cssmatic.com/gradient-generator#'%5C-moz%5C-linear%5C-gradient%5C%28left%5C%2C%5C%20rgba%5C%28248%5C%2C80%5C%2C50%5C%2C1%5C%29%5C%200%5C%25%5C%2C%5C%20rgba%5C%28241%5C%2C111%5C%2C92%5C%2C1%5C%29%5C%2050%5C%25%5C%2C%5C%20rgba%5C%28246%5C%2C41%5C%2C12%5C%2C1%5C%29%5C%2051%5C%25%5C%2C%5C%20rgba%5C%28240%5C%2C47%5C%2C23%5C%2C1%5C%29%5C%2071%5C%25%5C%2C%5C%20rgba%5C%28231%5C%2C56%5C%2C39%5C%2C1%5C%29%5C%20100%5C%25%5C%29%5C%3B') - Градиент / Шум / Тени
   * [Amnista](https://animista.net/play/basic) - Простые CSS анимации
   * [Autoprefixer](https://autoprefixer.github.io/ru/) - Автопрефиксер CSS онлайн
   * [Flexboxfroggy](https://flexboxfroggy.com/#ru) - Игра для изучения Flexbox 🐸
   * [Animate](https://animate.style/) - Библиотека анимаций
-  
+  * [CSS-Tricks](https://css-tricks.com/svg-properties-and-css/) - SVG свойства
+  * [Medium](https://medium.com/@ABatickaya/думая-о-доступности-пишем-css-9032d7b64fb2) - Доступность в CSS
+  * [Habr](https://habr.com/ru/company/ruvds/blog/317776/) - CSS для печати
+  * [Active-vision](https://active-vision.ru/icon/box-shadow/) - Генератор теней
+
+* 🍀 **VUE**:
+  * [VUESchool](https://vueschool.io/articles/vuejs-tutorials/structuring-vue-components/) - Организация VUE компонентов
+  * [Arutyunov](https://arutyunov.me/blog/vue/pravilnyj-sposob-zastavit-vue-perenderit-komponent/) - Обработка крайнего случая - перерендер компонента
+  * [Sweet-modal](https://sweet-modal-vue.adepto.as/) - Библиотека модалок
+
 * 🌍 **Markdown**:
   * [Editor.md](https://pandao.github.io/editor.md/en.html) - Редактор Markdown
   * [Markdown](https://guides.hexlet.io/markdown/) - Заметка о Markdown
   * [Favicon](https://realfavicongenerator.net/) - Генератор фавиконок
-  * [CSS Values](https://cssvalues.com/) - Описание CSS атрибутов 
 
 * 🌝 🌚 **Frontend**:
   * [Cat in web](https://www.cat-in-web.ru/webpack-from-zero/) - Webpack с нуля
@@ -71,6 +83,8 @@
 #### ПРОЧЕЕ:
 * 🍡**Интересные задачи**:
   * [Habr](https://habr.com/ru/company/yandex/blog/430560/) - Разбираем задачи конкурса Яндекса
+  * [Habr](https://habr.com/ru/company/skillbox/blog/445360/) - Задачи по JS на собеседованиях
+  * [Github](https://github.com/zhechka/Front-end-Developer-Interview-Questions/blob/master/Translations/Russian/README_RU.md) - Вопросы на Frontend собеседовании
  
 * ☕ **Английский**:
   * [EF Set](https://www.efset.org/ru/free-english-test/) - Проверка уровня английскийкого
@@ -86,12 +100,16 @@
   * [Flaticon](https://www.flaticon.com/) - Бесплатные иконки
   * [Noun Project](https://thenounproject.com/) - Бесплатные и красивые иконки
   * [Pro catalog](https://pro-catalog.ru/) - Лучшая кириллица (шрифты)
+  * [Google Fonts](https://fonts.google.com/icons) - Google Material Icons 
 
 * 👩‍🏫 **Обучение обучению**:
   * [Medium](https://medium.com/@iDoRecall/https-medium-com-idorecall-how-to-create-and-practice-flashcards-like-a-boss-b7efb5a53293) - Гайд по созданию карточек
+  * [Useful](https://sinyakov.com/frontend/problems.html) - Советы по изучению JS
+  * [Habr](https://habr.com/ru/company/dododev/blog/462747/) - Статья про метод слепой печати
   
 * 〰 **Примеры портфолио**:
   * [EnvatoMarker](http://preview.themeforest.net/item/jordan-modern-onepage-resume-portfolio-theme/full_screen_preview/17130387?_ga=2.13452528.690574824.1600542939-867042192.1581518391) - Портфолио лендинг
+  * [Arutyunov](https://arutyunov.me/portfolio/#) - Портфолио с полезной информацией
 
 #### МАГИСТРАТУРА
 * ⚠ **ThreeJS**:
