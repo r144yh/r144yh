@@ -121,11 +121,11 @@
   * [Github](https://github.com/zhechka/Front-end-Developer-Interview-Questions/blob/master/Translations/Russian/README_RU.md) - Вопросы на Frontend собеседовании
   * [Github](https://github.com/zhechka/Front-end-Developer-Interview-Questions) - Ещё вопросы на собеседовании
   * [Github](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codewars.md) - Codewars RS Stage2
-  * [Devchallenges](https://devchallenges.io/?ref=blog.moeminmamdouh.com) - Челленджи про прокачке фронтенд скиллов 
+  * [Devchallenges](https://devchallenges.io/?ref=blog.moeminmamdouh.com) - Челленджи по прокачке фронтенд скиллов 
   * [FrontendMentor](https://www.frontendmentor.io/challenges) - Более глубокие челленджи
  
 * ☕ **Английский**:
-  * [EF Set](https://www.efset.org/ru/free-english-test/) - Проверка уровня английскийкого
+  * [EF Set](https://www.efset.org/ru/free-english-test/) - Проверка уровня английского
   * [M-translate](https://www.m-translate.ru/) - Отличный переводчик
 
 * 🌾 **Презентации**:
